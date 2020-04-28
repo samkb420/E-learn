@@ -1,0 +1,55 @@
+.navbar-brand{
+  font-family: cursive;
+  font-weight: bolder;
+  font-size: x-large;
+  color:#fff;
+}
+h5{
+  text-align: center;
+}
+h4{
+  color:black;
+}
+ h4, h3{
+  
+  text-align: center;
+}
+
+.fa-file-pdf-o{
+  color: crimson;
+}
+
+/* @keyframes gathima{
+  0%{background-color: cyan;}
+  25%{background-color:gold;}
+  50%{background-color:rosybrown;}
+  75%{background-color:hotpink;};
+  100%{background-color: darkgreen;}
+}
+
+.flex{
+  animation-name: gathima;
+  animation-duration: 9s;
+  animation-timing-function: ease-in-out;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+
+  animation-direction: alternate;
+}
+.fa-graduation-cap{
+  color: cyan;
+} */
+
+/* @keyframes sam{
+  0%{ background-color: violet;}
+  45%{background-color: turquoise;}
+  100%{background-color: tomato;}
+}
+
+.anim{
+  animation-name: sam;
+  animation-duration: 9s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  animation-timing-function:linear;
+} */
